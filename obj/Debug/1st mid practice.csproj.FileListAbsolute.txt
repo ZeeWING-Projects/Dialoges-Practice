@@ -1,0 +1,10 @@
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\bin\Debug\1st mid practice.exe.config
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\bin\Debug\1st mid practice.exe
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\bin\Debug\1st mid practice.pdb
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\1st mid practice.csprojAssemblyReference.cache
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\_1st_mid_practice.Form1.resources
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\_1st_mid_practice.Properties.Resources.resources
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\1st mid practice.csproj.GenerateResource.cache
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\1st mid practice.csproj.CoreCompileInputs.cache
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\1st mid practice.exe
+F:\5th semester\C#\Extra Concepts\1st mid practice\1st mid practice\obj\Debug\1st mid practice.pdb
